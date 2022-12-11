@@ -1,4 +1,4 @@
-# UGR-9050-13
+# UGR-9050-13(Birhan Aschalew)
 fundamental web design class project
 
-my first ersonal project which is focus on Real estate.
+my first personal project which is Real Esate website.
